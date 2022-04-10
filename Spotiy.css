@@ -1,0 +1,231 @@
+body{
+    margin: 0px;
+}
+
+.header{
+    height: 80px;
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    display: flex;
+}
+.header-half{
+    width: 31%;
+    background-color: rgb(4, 4, 4);
+    height: 70px;
+    display: flex;
+}
+.logo{
+    height: 52px;
+    width: 73px;
+    margin-left: 155px;
+    margin-top: 14px;
+    color: white;
+}
+.header-half h3{
+    color: white;
+    font-size: x-large
+
+}
+.header-halfa{
+    height: 70px;
+    width: 612px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 185px;
+
+}
+.names{
+    color: white;
+    display: flex;
+    justify-content:space-evenly;
+    font-size: larger;
+}
+.names img{
+    height: 43px;
+    width: 41px;
+    margin-top: 9px;
+    background-color: black;
+}
+.back img{
+    width: 512.3%;
+  background-image: linear-gradient(to right,rgb(216 31 182 / 95%), blueviolet);
+  margin: -6%;
+  margin-top: 16px;
+}
+.container-one {
+    width: 100%;
+    height: 1054px;
+    display: flex;
+}
+.phone{
+    height: 399px;
+    width: 817px;
+    margin-top: 180px;
+    margin-left: -891px;
+}
+.phone img{
+    width: 261px;
+    margin-left: -49px;
+
+}
+.txt h6{ 
+    margin-left: 489px;
+    margin-top: 304px;
+    font-size: xxx-large;
+    color: white;
+}
+.spotify-free{
+    margin-left: 311px;
+    border-radius: 84px;
+    border: none;
+    height: 48px;
+    width: 195px;
+    font-size: initial;
+    position: absolute;
+    margin-top: 274px;
+}
+.container-two{
+    background-color: #faf7f7;
+    position: absolute;
+    height: 556px;
+    width: 100%;
+    margin-top: 611px;
+}
+.container-three{
+    width: 100%;
+    height: 606px;
+    background-image: linear-gradient(180deg,rgb(216 31 182 / 95%), blueviolet);
+}
+.container-two h1{
+    margin-left: 635px;
+    margin-top: 31px;
+    font-size: xxx-large;
+}
+.pic{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.text{
+    height: 209px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.one{
+font-size: larger;
+}
+.container-three .txt{
+    font-size: xxx-large;
+    margin-left: 6px;
+    padding-top: 206px;
+    color: white;
+    text-align: center;
+}
+.container-four{
+    height: 523px;
+    background-color: white;
+    position: relative;
+}
+.qes{
+    padding-top: 8px;
+    padding-left: 591px;
+    font-size: xxx-large;
+
+}
+.qes-button{
+    height: 362px;
+    margin-top: -23px;
+    display: flex;
+    flex-direction: column;
+}
+.qes-button button{
+    background-color: rgba(0,0,0,0);
+    width: 50%;
+    height: 86px;
+    margin-left: 328px;
+    font-size: x-large;
+    border: none;
+    cursor: pointer;
+}
+.container-five{
+    height: 358px;
+    width: 100%;
+}
+.background{
+    width: 100%;
+    margin-top: -400px;
+    background-image: linear-gradient(180deg,rgb(216 31 182 / 95%), blueviolet);
+
+}
+.background img{
+   
+    width: 100%;
+    overflow: auto;
+}
+.pic{
+    height: 149px;
+}
+.btn-one{
+    position: absolute;
+    margin-top: -551px;
+    margin-left: 384px;
+}
+.btn-one h1{
+    font-size: 6rem;
+    color: white;
+}
+.btn-one button{
+    width: 216px;
+    height: 50px;
+    margin-left: 217px;
+    border: none;
+    border-radius: 35px;
+    font-size: initial;
+    font-weight: 700;
+}
+.ftr{margin-top: 450px;
+    height: 400px;
+    background-color: black;
+    position: relative;
+}
+.ftrhead{
+    height: 159px;
+    width: 45%;
+    margin-left: 360px;
+    color: white;
+}
+.ftrheads{
+    display: flex;
+    justify-content: space-between;
+}
+.ftrheads img{
+    height: 62px;
+
+}
+.ftrheads h4{
+    margin-top: 54px;
+}
+.ftrcontent{
+    height: 253px;
+    display: flex;
+    width: 100%;
+    margin-top: 6px;
+    justify-content: space-between;
+}
+.ftrcontent h5{
+color: white;
+}
+.insta{
+    display: flex;
+    justify-content: end;
+    height: 84px;
+    margin-top: -113px;
+}
+.insta img{
+    height: 51px;
+    margin-left: 12px;
+    background-color: white;
+    border-radius: 17px;
+}
